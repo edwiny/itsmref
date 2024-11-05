@@ -68,3 +68,6 @@ Security Assertion Markup Language
 
 Standard protocol to provide security assertions to service providers.
 When SAML authenticates that your identity can have access to a resource, it gives you an access token for a single session in your browser
+
+Great explanation of SAML: https://duo.com/blog/the-beer-drinkers-guide-to-saml
+
